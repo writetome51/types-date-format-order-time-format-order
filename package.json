@@ -2,8 +2,8 @@
   "name": "types-date-format-order-time-format-order",
   "version": "0.0.1",
   "description": "Typescript type declarations DateFormatOrder and TimeFormatOrder, which are used for the ordering of dates and times",
-  "main": "index.d.ts",
-  "types": "index.d.ts",
+  "main": "dist/index.d.ts",
+  "types": "dist/index.d.ts",
   "scripts": {
     "build": "tsc"
   },
