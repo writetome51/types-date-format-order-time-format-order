@@ -1,8 +1,8 @@
-# type DateFormatOrder
+# DateFormatOrder
 
 `declare type DateFormatOrder = 'ymd' | 'ydm' | 'myd' | 'mdy' | 'dym' | 'dmy'`
 
-# type TimeFormatOrder
+# TimeFormatOrder
 
 `declare type TimeFormatOrder = 'hms' | 'hsm' | 'msh' | 'mhs' | 'smh' | 'shm'`
 
